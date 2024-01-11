@@ -1,0 +1,65 @@
+Symbol,index,0
+MSFT,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    36.00                 32.00   
+1     Avg. Estimate                     2.34                  2.37   
+2      Low Estimate                     2.21                  2.20   
+3     High Estimate                     2.52                  2.61   
+4      Year Ago EPS                     2.23                  2.35   
+
+   Current Year (2023)  Next Year (2024)  
+0                23.00             44.00  
+1                 8.75              9.93  
+2                 8.37              9.40  
+3                 8.94             10.93  
+4                 9.21              8.75  "
+MSFT,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                      35                   28   
+1            Avg. Estimate                  50.51B                  50B   
+2             Low Estimate                  49.32B               48.58B   
+3            High Estimate                  52.62B               52.78B   
+4           Year Ago Sales                  51.87B               49.61B   
+5  Sales Growth (year/est)                  -2.60%                0.80%   
+
+  Current Year (2023) Next Year (2024)  
+0                  47               46  
+1             191.68B           212.7B  
+2             187.69B          196.18B  
+3             192.81B          218.94B  
+4             198.27B          191.68B  
+5              -3.30%           11.00%  "
+MSFT,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      2.29       2.3       2.29      2.03
+1       EPS Actual      2.23      2.35       2.32      2.23
+2       Difference     -0.06      0.05       0.03       0.2
+3       Surprise %    -2.60%     2.20%      1.30%     9.90%"
+MSFT,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     2.34                  2.37   
+1        7 Days Ago                     2.46                  2.56   
+2       30 Days Ago                     2.47                  2.56   
+3       60 Days Ago                     2.47                  2.56   
+4       90 Days Ago                     2.47                  2.57   
+
+   Current Year (2023)  Next Year (2024)  
+0                 8.75              9.93  
+1                 9.35             10.73  
+2                 9.36             10.75  
+3                 9.35             10.74  
+4                 9.43             10.88  "
+MSFT,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                     29.0                  18.0   
+1    Up Last 30 Days                     29.0                  19.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      2.0                  11.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                 35.0              29.0  
+1                 35.0              29.0  
+2                  NaN               NaN  
+3                  1.0               6.0  "
+MSFT,Growth Estimates,"           Growth Estimates    MSFT  Industry  Sector(s)  S&P 500
+0              Current Qtr.   4.90%       NaN        NaN      NaN
+1                 Next Qtr.   0.90%       NaN        NaN      NaN
+2              Current Year  -5.00%       NaN        NaN      NaN
+3                 Next Year  13.50%       NaN        NaN      NaN
+4  Next 5 Years (per annum)  11.04%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  22.54%       NaN        NaN      NaN"

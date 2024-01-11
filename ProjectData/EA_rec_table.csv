@@ -1,0 +1,65 @@
+Symbol,index,0
+EA,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    24.00                 14.00   
+1     Avg. Estimate                     1.32                  0.85   
+2      Low Estimate                     1.20                  0.41   
+3     High Estimate                     1.40                  1.45   
+4      Year Ago EPS                     1.46                  0.47   
+
+   Current Year (2023)  Next Year (2024)  
+0                26.00             27.00  
+1                 6.03              6.57  
+2                 5.92              6.10  
+3                 6.31              7.08  
+4                 7.02              6.03  "
+EA,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      22                   11   
+1            Avg. Estimate                   1.76B                1.53B   
+2             Low Estimate                   1.66B                1.22B   
+3            High Estimate                    2.3B                1.95B   
+4           Year Ago Sales                   1.75B                 1.3B   
+5  Sales Growth (year/est)                   0.60%               17.40%   
+
+  Current Year (2023) Next Year (2024)  
+0                  26               26  
+1               7.14B            7.53B  
+2               7.05B            7.21B  
+3               7.34B               8B  
+4               7.51B            7.14B  
+5              -5.00%            5.40%  "
+EA,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      1.43      0.28      1.37       3.05
+1       EPS Actual      1.46      0.47      1.45        2.8
+2       Difference      0.03      0.19      0.08      -0.25
+3       Surprise %     2.10%    67.90%     5.80%     -8.20%"
+EA,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                     1.32                  0.85   
+1        7 Days Ago                     1.31                  0.86   
+2       30 Days Ago                     1.31                  0.89   
+3       60 Days Ago                     1.31                  0.89   
+4       90 Days Ago                     2.22                  0.84   
+
+   Current Year (2023)  Next Year (2024)  
+0                 6.03              6.57  
+1                 6.03              6.56  
+2                 6.03              6.54  
+3                 6.03              6.54  
+4                 7.15              7.81  "
+EA,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      2.0                   1.0   
+1    Up Last 30 Days                      3.0                   1.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   2.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  3.0               3.0  
+1                  4.0               4.0  
+2                  NaN               NaN  
+3                  NaN               1.0  "
+EA,Growth Estimates,"           Growth Estimates       EA  Industry  Sector(s)  S&P 500
+0              Current Qtr.   -9.60%       NaN        NaN      NaN
+1                 Next Qtr.   80.90%       NaN        NaN      NaN
+2              Current Year  -14.10%       NaN        NaN      NaN
+3                 Next Year    9.00%       NaN        NaN      NaN
+4  Next 5 Years (per annum)    3.35%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   13.24%       NaN        NaN      NaN"

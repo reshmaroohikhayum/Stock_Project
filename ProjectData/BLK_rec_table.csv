@@ -1,0 +1,65 @@
+Symbol,index,0
+BLK,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    12.00                 12.00   
+1     Avg. Estimate                     8.44                  8.91   
+2      Low Estimate                     7.98                  8.23   
+3     High Estimate                     9.01                  9.50   
+4      Year Ago EPS                     7.36                  9.55   
+
+   Current Year (2023)  Next Year (2024)  
+0                16.00             16.00  
+1                35.04             40.13  
+2                33.32             37.45  
+3                36.30             44.14  
+4                35.36             35.04  "
+BLK,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                       7                    7   
+1            Avg. Estimate                   4.47B                4.59B   
+2             Low Estimate                   4.42B                4.45B   
+3            High Estimate                   4.51B                4.67B   
+4           Year Ago Sales                   4.53B                4.31B   
+5  Sales Growth (year/est)                  -1.30%                6.50%   
+
+  Current Year (2023) Next Year (2024)  
+0                  11               11  
+1              18.17B           20.18B  
+2              17.97B           19.74B  
+3               18.5B           21.24B  
+4              17.87B           18.17B  
+5               1.60%           11.10%  "
+BLK,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.       7.9      7.07       8.11      7.76
+1       EPS Actual      7.36      9.55       8.93      7.93
+2       Difference     -0.54      2.48       0.82      0.17
+3       Surprise %    -6.80%    35.10%     10.10%     2.20%"
+BLK,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     8.44                  8.91   
+1        7 Days Ago                     8.44                  8.91   
+2       30 Days Ago                     8.42                  8.86   
+3       60 Days Ago                     8.42                  8.86   
+4       90 Days Ago                     8.36                  8.80   
+
+   Current Year (2023)  Next Year (2024)  
+0                35.04             40.13  
+1                35.04             40.13  
+2                35.04             39.90  
+3                35.04             39.90  
+4                34.92             39.84  "
+BLK,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                      9.0                   6.0   
+1    Up Last 30 Days                      9.0                   6.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      3.0                   5.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  8.0               9.0  
+1                  8.0              10.0  
+2                  NaN               NaN  
+3                  8.0               6.0  "
+BLK,Growth Estimates,"           Growth Estimates     BLK  Industry  Sector(s)  S&P 500
+0              Current Qtr.  14.70%       NaN        NaN      NaN
+1                 Next Qtr.  -6.70%       NaN        NaN      NaN
+2              Current Year  -0.90%       NaN        NaN      NaN
+3                 Next Year  14.50%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   6.89%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   8.33%       NaN        NaN      NaN"

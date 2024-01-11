@@ -1,0 +1,65 @@
+Symbol,index,0
+NVDA,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0   No. of Analysts                    31.00                 31.00   
+1     Avg. Estimate                     0.91                  1.05   
+2      Low Estimate                     0.81                  0.89   
+3     High Estimate                     0.95                  1.22   
+4      Year Ago EPS                     1.36                  0.51   
+
+   Current Year (2024)  Next Year (2025)  
+0                38.00             37.00  
+1                 4.53              6.05  
+2                 3.98              5.25  
+3                 5.18              8.00  
+4                 3.34              4.53  "
+NVDA,Revenue Estimate,"          Revenue Estimate Current Qtr. (Apr 2023) Next Qtr. (Jul 2023)  \
+0          No. of Analysts                      31                   30   
+1            Avg. Estimate                   6.51B                 7.1B   
+2             Low Estimate                   6.48B                6.78B   
+3            High Estimate                    6.6B                 7.8B   
+4           Year Ago Sales                   8.29B                 6.7B   
+5  Sales Growth (year/est)                 -21.50%                5.90%   
+
+  Current Year (2024) Next Year (2025)  
+0                  43               40  
+1              30.07B           37.42B  
+2              28.04B           33.51B  
+3              35.82B           45.62B  
+4              26.97B           30.07B  
+5              11.50%           24.40%  "
+NVDA,Earnings History,"  Earnings History 4/29/2022 7/30/2022 10/30/2022 1/30/2023
+0         EPS Est.      1.29      1.25       0.69      0.81
+1       EPS Actual      1.36      0.51       0.58      0.88
+2       Difference      0.07     -0.74      -0.11      0.07
+3       Surprise %     5.40%   -59.20%    -15.90%     8.60%"
+NVDA,EPS Trend,"          EPS Trend  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0  Current Estimate                     0.91                  1.05   
+1        7 Days Ago                     0.91                  1.05   
+2       30 Days Ago                     0.91                  1.05   
+3       60 Days Ago                     0.90                  1.04   
+4       90 Days Ago                     0.86                  1.01   
+
+   Current Year (2024)  Next Year (2025)  
+0                 4.53              6.05  
+1                 4.53              6.05  
+2                 4.50              6.01  
+3                 4.44              5.92  
+4                 4.30              5.63  "
+NVDA,EPS Revisions,"       EPS Revisions  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0     Up Last 7 Days                      1.0                   1.0   
+1    Up Last 30 Days                      3.0                   4.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   NaN   
+
+   Current Year (2024)  Next Year (2025)  
+0                  2.0               1.0  
+1                  6.0               5.0  
+2                  NaN               NaN  
+3                  NaN               NaN  "
+NVDA,Growth Estimates,"           Growth Estimates     NVDA  Industry  Sector(s)  S&P 500
+0              Current Qtr.  -33.10%       NaN        NaN      NaN
+1                 Next Qtr.  105.90%       NaN        NaN      NaN
+2              Current Year   35.60%       NaN        NaN      NaN
+3                 Next Year   33.60%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   21.20%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   25.94%       NaN        NaN      NaN"

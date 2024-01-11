@@ -1,0 +1,65 @@
+Symbol,index,0
+DIS,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    22.00                 20.00   
+1     Avg. Estimate                    28.61                 39.72   
+2      Low Estimate                    21.18                 29.77   
+3     High Estimate                    34.99                 44.20   
+4      Year Ago EPS                     1.08                  1.09   
+
+   Current Year (2023)  Next Year (2024)  
+0                26.00             26.00  
+1               126.09            166.97  
+2               103.13            137.81  
+3               136.28            208.10  
+4                 3.53            126.09  "
+DIS,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      21                   19   
+1            Avg. Estimate                 669.12B              700.98B   
+2             Low Estimate                 640.09B              685.67B   
+3            High Estimate                 686.55B               725.8B   
+4           Year Ago Sales                  20.27B                21.5B   
+5  Sales Growth (year/est)               3,200.70%            3,159.80%   
+
+  Current Year (2023) Next Year (2024)  
+0                  28               28  
+1               2.77T            2.94T  
+2               2.69T            2.78T  
+3               2.83T            3.02T  
+4              83.75B            2.77T  
+5           3,202.30%            6.50%  "
+DIS,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      1.19      0.96      0.55       0.78
+1       EPS Actual      1.08      1.09       0.3       0.99
+2       Difference     -0.11      0.13     -0.25       0.21
+3       Surprise %    -9.20%    13.50%   -45.50%     26.90%"
+DIS,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                    28.61                 39.72   
+1        7 Days Ago                     0.94                  1.30   
+2       30 Days Ago                     0.95                  1.33   
+3       60 Days Ago                     0.95                  1.33   
+4       90 Days Ago                     1.18                  1.26   
+
+   Current Year (2023)  Next Year (2024)  
+0               126.09            166.97  
+1                 4.12              5.44  
+2                 4.15              5.52  
+3                 4.15              5.52  
+4                 4.13              5.29  "
+DIS,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      NaN                   NaN   
+1    Up Last 30 Days                      2.0                   1.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      2.0                   2.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  1.0               1.0  
+1                  5.0               4.0  
+2                  NaN               NaN  
+3                  1.0               1.0  "
+DIS,Growth Estimates,"           Growth Estimates        DIS  Industry  Sector(s)  S&P 500
+0              Current Qtr.  2,549.10%       NaN        NaN      NaN
+1                 Next Qtr.  3,544.00%       NaN        NaN      NaN
+2              Current Year  3,472.00%       NaN        NaN      NaN
+3                 Next Year     32.40%       NaN        NaN      NaN
+4  Next 5 Years (per annum)    659.33%       NaN        NaN      NaN
+5  Past 5 Years (per annum)    -19.44%       NaN        NaN      NaN"

@@ -1,0 +1,65 @@
+Symbol,index,0
+DKNG,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    24.00                 24.00   
+1     Avg. Estimate                    -0.83                 -0.43   
+2      Low Estimate                    -1.00                 -0.60   
+3     High Estimate                    -0.54                 -0.26   
+4      Year Ago EPS                    -1.14                 -0.50   
+
+   Current Year (2023)  Next Year (2024)  
+0                27.00             26.00  
+1                -2.05             -1.04  
+2                -2.55             -1.68  
+3                -1.18             -0.32  
+4                -3.16             -2.05  "
+DKNG,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      26                   26   
+1            Avg. Estimate                 679.33M              648.06M   
+2             Low Estimate                  610.5M                 594M   
+3            High Estimate                    725M                 698M   
+4           Year Ago Sales                  417.2M              466.19M   
+5  Sales Growth (year/est)                  62.80%               39.00%   
+
+  Current Year (2023) Next Year (2024)  
+0                  31               29  
+1               2.99B            3.65B  
+2               2.88B            3.26B  
+3               3.13B            4.15B  
+4               2.24B            2.99B  
+5              33.60%           22.00%  "
+DKNG,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.     -1.17     -0.85     -1.04      -0.59
+1       EPS Actual     -1.14      -0.5        -1      -0.53
+2       Difference      0.03      0.35      0.04       0.06
+3       Surprise %     2.60%    41.20%     3.80%     10.20%"
+DKNG,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                    -0.83                 -0.43   
+1        7 Days Ago                    -0.81                 -0.45   
+2       30 Days Ago                    -0.79                 -0.47   
+3       60 Days Ago                    -0.80                 -0.54   
+4       90 Days Ago                    -0.79                 -0.54   
+
+   Current Year (2023)  Next Year (2024)  
+0                -2.05             -1.04  
+1                -2.07             -1.05  
+2                -2.07             -1.05  
+3                -2.41             -1.31  
+4                -2.41             -1.32  "
+DKNG,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      NaN                   3.0   
+1    Up Last 30 Days                      NaN                   8.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      3.0                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  5.0               4.0  
+1                  6.0               4.0  
+2                  NaN               NaN  
+3                  NaN               NaN  "
+DKNG,Growth Estimates,"           Growth Estimates    DKNG  Industry  Sector(s)  S&P 500
+0              Current Qtr.  27.20%       NaN        NaN      NaN
+1                 Next Qtr.  14.00%       NaN        NaN      NaN
+2              Current Year  35.10%       NaN        NaN      NaN
+3                 Next Year  49.30%       NaN        NaN      NaN
+4  Next 5 Years (per annum)  35.40%       NaN        NaN      NaN
+5  Past 5 Years (per annum)     NaN       NaN        NaN      NaN"

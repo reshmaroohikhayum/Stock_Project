@@ -1,0 +1,2 @@
+Symbol,index,maxAge,currentPrice,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,revenuePerShare,grossProfits,grossMargins,ebitdaMargins,operatingMargins,profitMargins,financialCurrency
+GOOG,GOOG,86400,108.37,145.0,119.0,126.56,123.0,1.5,strong_buy,9,21.652,156633000000,0.0,0.0,0.0,0.0,USD

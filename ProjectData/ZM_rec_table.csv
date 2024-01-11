@@ -1,0 +1,65 @@
+Symbol,index,0
+ZM,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0   No. of Analysts                    26.00                 26.00   
+1     Avg. Estimate                     0.99                  1.04   
+2      Low Estimate                     0.96                  1.00   
+3     High Estimate                     1.10                  1.12   
+4      Year Ago EPS                     1.03                  1.05   
+
+   Current Year (2024)  Next Year (2025)  
+0                31.00             28.00  
+1                 4.21              4.35  
+2                 4.07              3.49  
+3                 4.81              5.44  
+4                 4.37              4.21  "
+ZM,Revenue Estimate,"          Revenue Estimate Current Qtr. (Apr 2023) Next Qtr. (Jul 2023)  \
+0          No. of Analysts                      24                   24   
+1            Avg. Estimate                   1.08B                1.11B   
+2             Low Estimate                   1.08B                1.09B   
+3            High Estimate                    1.1B                1.12B   
+4           Year Ago Sales                   1.07B                 1.1B   
+5  Sales Growth (year/est)                   0.90%                0.80%   
+
+  Current Year (2024) Next Year (2025)  
+0                  29               28  
+1               4.45B            4.67B  
+2               4.44B            4.53B  
+3                4.5B             4.9B  
+4               4.39B            4.45B  
+5               1.30%            4.90%  "
+ZM,Earnings History,"  Earnings History 4/29/2022 7/30/2022 10/30/2022 1/30/2023
+0         EPS Est.      0.87      0.94       0.84       0.8
+1       EPS Actual      1.03      1.05       1.07      1.22
+2       Difference      0.16      0.11       0.23      0.42
+3       Surprise %    18.40%    11.70%     27.40%    52.50%"
+ZM,EPS Trend,"          EPS Trend  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0  Current Estimate                     0.99                  1.04   
+1        7 Days Ago                     0.99                  1.04   
+2       30 Days Ago                     0.99                  1.04   
+3       60 Days Ago                     0.84                  0.91   
+4       90 Days Ago                     0.86                  0.90   
+
+   Current Year (2024)  Next Year (2025)  
+0                 4.21              4.35  
+1                 4.21              4.35  
+2                 4.19              4.33  
+3                 3.66              3.90  
+4                 3.62              3.79  "
+ZM,EPS Revisions,"       EPS Revisions  Current Qtr. (Apr 2023)  Next Qtr. (Jul 2023)  \
+0     Up Last 7 Days                      NaN                   NaN   
+1    Up Last 30 Days                      NaN                   NaN   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      1.0                   NaN   
+
+   Current Year (2024)  Next Year (2025)  
+0                  NaN               NaN  
+1                  NaN               1.0  
+2                  NaN               NaN  
+3                  1.0               NaN  "
+ZM,Growth Estimates,"           Growth Estimates       ZM  Industry  Sector(s)  S&P 500
+0              Current Qtr.   -3.90%       NaN        NaN      NaN
+1                 Next Qtr.   -1.00%       NaN        NaN      NaN
+2              Current Year   -3.70%       NaN        NaN      NaN
+3                 Next Year    3.30%       NaN        NaN      NaN
+4  Next 5 Years (per annum)  -10.37%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  139.79%       NaN        NaN      NaN"

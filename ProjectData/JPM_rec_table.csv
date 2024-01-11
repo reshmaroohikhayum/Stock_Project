@@ -1,0 +1,65 @@
+Symbol,index,0
+JPM,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    21.00                 18.00   
+1     Avg. Estimate                     3.40                  3.30   
+2      Low Estimate                     2.79                  2.55   
+3     High Estimate                     3.86                  3.56   
+4      Year Ago EPS                     2.63                  2.76   
+
+   Current Year (2023)  Next Year (2024)  
+0                25.00             24.00  
+1                12.77             13.20  
+2                11.30             11.14  
+3                14.06             14.85  
+4                12.08             12.77  "
+JPM,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      15                   14   
+1            Avg. Estimate                  36.18B               35.35B   
+2             Low Estimate                  33.95B               33.88B   
+3            High Estimate                  38.23B               36.95B   
+4           Year Ago Sales                  31.59B               31.63B   
+5  Sales Growth (year/est)                  14.50%               11.80%   
+
+  Current Year (2023) Next Year (2024)  
+0                  21               21  
+1             141.52B          142.47B  
+2             136.14B          136.53B  
+3             147.71B          154.82B  
+4             132.28B          141.52B  
+5               7.00%            0.70%  "
+JPM,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      2.69      2.88      2.88       3.06
+1       EPS Actual      2.63      2.76      3.12       3.56
+2       Difference     -0.06     -0.12      0.24        0.5
+3       Surprise %    -2.20%    -4.20%     8.30%     16.30%"
+JPM,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                     3.40                  3.30   
+1        7 Days Ago                     3.43                  3.28   
+2       30 Days Ago                     3.44                  3.27   
+3       60 Days Ago                     3.44                  3.27   
+4       90 Days Ago                     3.34                  3.25   
+
+   Current Year (2023)  Next Year (2024)  
+0                12.77             13.20  
+1                12.86             13.46  
+2                12.88             13.52  
+3                12.84             13.44  
+4                12.83             13.68  "
+JPM,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      3.0                   2.0   
+1    Up Last 30 Days                      3.0                   4.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      4.0                   2.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  1.0               1.0  
+1                  2.0               2.0  
+2                  NaN               NaN  
+3                  8.0               8.0  "
+JPM,Growth Estimates,"           Growth Estimates     JPM  Industry  Sector(s)  S&P 500
+0              Current Qtr.  29.30%       NaN        NaN      NaN
+1                 Next Qtr.  19.60%       NaN        NaN      NaN
+2              Current Year   5.70%       NaN        NaN      NaN
+3                 Next Year   3.40%       NaN        NaN      NaN
+4  Next 5 Years (per annum)  -0.99%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  13.22%       NaN        NaN      NaN"

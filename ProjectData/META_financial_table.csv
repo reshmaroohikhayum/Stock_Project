@@ -1,0 +1,2 @@
+Symbol,index,maxAge,currentPrice,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,revenuePerShare,grossProfits,grossMargins,ebitdaMargins,operatingMargins,profitMargins,financialCurrency
+META,META,86400,238.56,3141.86,824.09,2352.38,2472.28,2.1,buy,47,43.397,92855000000,0.0,0.0,0.0,0.0,USD

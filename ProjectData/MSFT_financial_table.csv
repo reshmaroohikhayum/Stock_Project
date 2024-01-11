@@ -1,0 +1,2 @@
+Symbol,index,maxAge,currentPrice,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,revenuePerShare,grossProfits,grossMargins,ebitdaMargins,operatingMargins,profitMargins,financialCurrency
+MSFT,MSFT,86400,304.83,364.35,211.32,292.64,298.31,1.8,buy,46,26.45,135620000000,0.0,0.0,0.0,0.0,USD

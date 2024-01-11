@@ -1,0 +1,65 @@
+Symbol,index,0
+ZBRA,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    12.00                 12.00   
+1     Avg. Estimate                     3.92                  4.18   
+2      Low Estimate                     3.83                  3.76   
+3     High Estimate                     4.04                  4.52   
+4      Year Ago EPS                     4.01                  4.61   
+
+   Current Year (2023)  Next Year (2024)  
+0                13.00             13.00  
+1                17.38             19.48  
+2                15.82             17.16  
+3                18.10             23.20  
+4                17.47             17.38  "
+ZBRA,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      11                   11   
+1            Avg. Estimate                   1.39B                1.41B   
+2             Low Estimate                   1.37B                1.36B   
+3            High Estimate                   1.42B                1.46B   
+4           Year Ago Sales                   1.43B                1.47B   
+5  Sales Growth (year/est)                  -2.60%               -4.00%   
+
+  Current Year (2023) Next Year (2024)  
+0                  14               14  
+1               5.73B            6.03B  
+2               5.58B            5.81B  
+3               5.83B            6.35B  
+4               5.78B            5.73B  
+5              -0.80%            5.30%  "
+ZBRA,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      3.87      4.21      4.54       4.59
+1       EPS Actual      4.01      4.61      4.12       4.75
+2       Difference      0.14       0.4     -0.42       0.16
+3       Surprise %     3.60%     9.50%    -9.30%      3.50%"
+ZBRA,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                     3.92                  4.18   
+1        7 Days Ago                     3.92                  4.18   
+2       30 Days Ago                     3.91                  4.16   
+3       60 Days Ago                     4.17                  4.38   
+4       90 Days Ago                     4.28                  4.48   
+
+   Current Year (2023)  Next Year (2024)  
+0                17.38             19.48  
+1                17.38             19.48  
+2                17.32             19.39  
+3                17.71             20.23  
+4                17.90             20.83  "
+ZBRA,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      NaN                   NaN   
+1    Up Last 30 Days                      NaN                   NaN   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  NaN               NaN  
+1                  NaN               NaN  
+2                  NaN               NaN  
+3                  NaN               NaN  "
+ZBRA,Growth Estimates,"           Growth Estimates    ZBRA  Industry  Sector(s)  S&P 500
+0              Current Qtr.  -2.20%       NaN        NaN      NaN
+1                 Next Qtr.  -9.30%       NaN        NaN      NaN
+2              Current Year  -0.50%       NaN        NaN      NaN
+3                 Next Year  12.10%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   3.89%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  16.07%       NaN        NaN      NaN"

@@ -1,0 +1,65 @@
+Symbol,index,0
+AAPL,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    26.00                 25.00   
+1     Avg. Estimate                     1.43                  1.22   
+2      Low Estimate                     1.37                  1.02   
+3     High Estimate                     1.56                  1.35   
+4      Year Ago EPS                     1.52                  1.20   
+
+   Current Year (2023)  Next Year (2024)  
+0                38.00             36.00  
+1                 5.95              6.59  
+2                 5.38              5.62  
+3                 6.34              7.15  
+4                 6.11              5.95  "
+AAPL,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                      24                   23   
+1            Avg. Estimate                  92.98B               84.72B   
+2             Low Estimate                  89.79B               78.88B   
+3            High Estimate                  98.84B               90.12B   
+4           Year Ago Sales                  97.28B               82.96B   
+5  Sales Growth (year/est)                  -4.40%                2.10%   
+
+  Current Year (2023) Next Year (2024)  
+0                  37               35  
+1             387.92B           415.1B  
+2             375.07B          397.12B  
+3             401.21B          433.32B  
+4             394.33B          387.92B  
+5              -1.60%            7.00%  "
+AAPL,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      1.43      1.16      1.27       1.94
+1       EPS Actual      1.52       1.2      1.29       1.88
+2       Difference      0.09      0.04      0.02      -0.06
+3       Surprise %     6.30%     3.40%     1.60%     -3.10%"
+AAPL,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                     1.43                  1.22   
+1        7 Days Ago                     1.43                  1.23   
+2       30 Days Ago                     1.43                  1.24   
+3       60 Days Ago                     1.43                  1.24   
+4       90 Days Ago                     1.49                  1.25   
+
+   Current Year (2023)  Next Year (2024)  
+0                 5.95              6.59  
+1                 5.95              6.60  
+2                 5.97              6.59  
+3                 5.97              6.58  
+4                 6.17              6.73  "
+AAPL,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      2.0                   NaN   
+1    Up Last 30 Days                      6.0                   2.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   3.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  NaN               NaN  
+1                  2.0               3.0  
+2                  NaN               NaN  
+3                  4.0               4.0  "
+AAPL,Growth Estimates,"           Growth Estimates    AAPL  Industry  Sector(s)  S&P 500
+0              Current Qtr.  -5.90%       NaN        NaN      NaN
+1                 Next Qtr.   1.70%       NaN        NaN      NaN
+2              Current Year  -2.60%       NaN        NaN      NaN
+3                 Next Year  10.80%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   8.12%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  21.91%       NaN        NaN      NaN"

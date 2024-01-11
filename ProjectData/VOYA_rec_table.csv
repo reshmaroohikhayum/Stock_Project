@@ -1,0 +1,65 @@
+Symbol,index,0
+VOYA,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0   No. of Analysts                    16.00                 16.00   
+1     Avg. Estimate                     1.71                  2.07   
+2      Low Estimate                     1.38                  1.90   
+3     High Estimate                     1.99                  2.25   
+4      Year Ago EPS                     1.47                  1.67   
+
+   Current Year (2023)  Next Year (2024)  
+0                16.00             16.00  
+1                 8.16              9.32  
+2                 7.80              9.00  
+3                 8.66              9.67  
+4                 7.58              8.16  "
+VOYA,Revenue Estimate,"          Revenue Estimate Current Qtr. (Mar 2023) Next Qtr. (Jun 2023)  \
+0          No. of Analysts                       5                    5   
+1            Avg. Estimate                   1.67B                1.69B   
+2             Low Estimate                   1.56B                1.57B   
+3            High Estimate                   1.73B                1.75B   
+4           Year Ago Sales                    1.6B                1.53B   
+5  Sales Growth (year/est)                   4.10%               10.30%   
+
+  Current Year (2023) Next Year (2024)  
+0                   5                5  
+1               6.81B            7.13B  
+2                6.3B             6.5B  
+3               7.03B            7.51B  
+4               5.92B            6.81B  
+5              15.10%            4.70%  "
+VOYA,Earnings History,"  Earnings History 3/30/2022 6/29/2022 9/29/2022 12/30/2022
+0         EPS Est.      1.44       1.2      1.05       1.55
+1       EPS Actual      1.47      1.67       2.3       2.18
+2       Difference      0.03      0.47      1.25       0.63
+3       Surprise %     2.10%    39.20%   119.00%     40.60%"
+VOYA,EPS Trend,"          EPS Trend  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0  Current Estimate                     1.71                  2.07   
+1        7 Days Ago                     1.76                  2.06   
+2       30 Days Ago                     1.80                  2.07   
+3       60 Days Ago                     1.79                  2.07   
+4       90 Days Ago                     1.73                  2.00   
+
+   Current Year (2023)  Next Year (2024)  
+0                 8.16              9.32  
+1                 8.20              9.32  
+2                 8.24              9.31  
+3                 8.23              9.29  
+4                 7.90              9.05  "
+VOYA,EPS Revisions,"       EPS Revisions  Current Qtr. (Mar 2023)  Next Qtr. (Jun 2023)  \
+0     Up Last 7 Days                      NaN                   2.0   
+1    Up Last 30 Days                      2.0                   6.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      3.0                   1.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                  NaN               1.0  
+1                  3.0               5.0  
+2                  NaN               NaN  
+3                  3.0               2.0  "
+VOYA,Growth Estimates,"           Growth Estimates    VOYA  Industry  Sector(s)  S&P 500
+0              Current Qtr.  16.30%       NaN        NaN      NaN
+1                 Next Qtr.  24.00%       NaN        NaN      NaN
+2              Current Year   7.70%       NaN        NaN      NaN
+3                 Next Year  14.20%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   1.53%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  20.86%       NaN        NaN      NaN"

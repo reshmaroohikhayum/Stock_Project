@@ -1,0 +1,2 @@
+Symbol,index,maxAge,currentPrice,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,revenuePerShare,grossProfits,grossMargins,ebitdaMargins,operatingMargins,profitMargins,financialCurrency
+V,V,86400,229.01,300.0,185.0,266.45,268.89,1.8,buy,36,14.061,28567000000,0.0,0.0,0.0,0.0,USD

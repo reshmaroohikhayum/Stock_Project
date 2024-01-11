@@ -1,0 +1,65 @@
+Symbol,index,0
+ORCL,Earnings Estimate,"  Earnings Estimate  Current Qtr. (May 2023)  Next Qtr. (Aug 2023)  \
+0   No. of Analysts                    24.00                 22.00   
+1     Avg. Estimate                     1.58                  1.15   
+2      Low Estimate                     1.55                  1.04   
+3     High Estimate                     1.61                  1.24   
+4      Year Ago EPS                     1.54                  1.03   
+
+   Current Year (2023)  Next Year (2024)  
+0                29.00             29.00  
+1                 5.04              5.58  
+2                 4.98              5.31  
+3                 5.08              5.96  
+4                 4.90              5.04  "
+ORCL,Revenue Estimate,"          Revenue Estimate Current Qtr. (May 2023) Next Qtr. (Aug 2023)  \
+0          No. of Analysts                      21                   19   
+1            Avg. Estimate                  13.72B               12.32B   
+2             Low Estimate                  13.68B               11.97B   
+3            High Estimate                  13.78B                12.7B   
+4           Year Ago Sales                  11.84B               11.45B   
+5  Sales Growth (year/est)                  15.90%                7.70%   
+
+  Current Year (2023) Next Year (2024)  
+0                  26               26  
+1              49.84B           53.57B  
+2              49.74B           52.07B  
+3              50.09B            54.7B  
+4              42.44B           49.84B  
+5              17.40%            7.50%  "
+ORCL,Earnings History,"  Earnings History 5/30/2022 8/30/2022 11/29/2022 2/27/2023
+0         EPS Est.      1.37      1.07       1.18       1.2
+1       EPS Actual      1.54      1.03       1.21      1.22
+2       Difference      0.17     -0.04       0.03      0.02
+3       Surprise %    12.40%    -3.70%      2.50%     1.70%"
+ORCL,EPS Trend,"          EPS Trend  Current Qtr. (May 2023)  Next Qtr. (Aug 2023)  \
+0  Current Estimate                     1.58                  1.15   
+1        7 Days Ago                     1.58                  1.15   
+2       30 Days Ago                     1.46                  1.15   
+3       60 Days Ago                     1.46                  1.16   
+4       90 Days Ago                     1.47                  1.15   
+
+   Current Year (2023)  Next Year (2024)  
+0                 5.04              5.58  
+1                 5.04              5.58  
+2                 4.90              5.57  
+3                 4.91              5.57  
+4                 4.91              5.57  "
+ORCL,EPS Revisions,"       EPS Revisions  Current Qtr. (May 2023)  Next Qtr. (Aug 2023)  \
+0     Up Last 7 Days                      NaN                   NaN   
+1    Up Last 30 Days                     21.0                   7.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  NaN               NaN  
+1                 26.0              11.0  
+2                  NaN               NaN  
+3                  NaN               NaN  "
+ORCL,Growth Estimates,"           Growth Estimates    ORCL  Industry  Sector(s)  S&P 500
+0              Current Qtr.   2.60%       NaN        NaN      NaN
+1                 Next Qtr.  11.70%       NaN        NaN      NaN
+2              Current Year   2.90%       NaN        NaN      NaN
+3                 Next Year  10.70%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   9.06%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  10.43%       NaN        NaN      NaN"

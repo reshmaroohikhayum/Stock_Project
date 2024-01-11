@@ -1,0 +1,65 @@
+Symbol,index,0
+DFS,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    19.00                 19.00   
+1     Avg. Estimate                     3.65                  3.20   
+2      Low Estimate                     3.30                  2.81   
+3     High Estimate                     4.51                  3.56   
+4      Year Ago EPS                     3.96                  3.54   
+
+   Current Year (2023)  Next Year (2024)  
+0                21.00             21.00  
+1                13.28             14.00  
+2                11.73              8.62  
+3                14.41             17.72  
+4                15.50             13.28  "
+DFS,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                      15                   15   
+1            Avg. Estimate                   3.87B                3.96B   
+2             Low Estimate                    3.8B                3.86B   
+3            High Estimate                   3.98B                4.07B   
+4           Year Ago Sales                   3.22B                3.37B   
+5  Sales Growth (year/est)                  20.20%               17.40%   
+
+  Current Year (2023) Next Year (2024)  
+0                  18               18  
+1              15.65B           16.24B  
+2              14.83B           13.94B  
+3              15.98B           17.14B  
+4              13.34B           15.65B  
+5              17.40%            3.80%  "
+DFS,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      3.78      3.72       3.66      3.91
+1       EPS Actual      3.96      3.54       3.77      3.58
+2       Difference      0.18     -0.18       0.11     -0.33
+3       Surprise %     4.80%    -4.80%      3.00%    -8.40%"
+DFS,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     3.65                  3.20   
+1        7 Days Ago                     3.66                  3.09   
+2       30 Days Ago                     3.55                  3.11   
+3       60 Days Ago                     3.54                  3.11   
+4       90 Days Ago                     3.55                  3.12   
+
+   Current Year (2023)  Next Year (2024)  
+0                13.28             14.00  
+1                13.47             14.16  
+2                13.56             14.01  
+3                13.65             14.27  
+4                13.66             14.27  "
+DFS,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                      4.0                   6.0   
+1    Up Last 30 Days                     11.0                  12.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      2.0                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  1.0               3.0  
+1                  5.0               8.0  
+2                  NaN               NaN  
+3                  5.0               3.0  "
+DFS,Growth Estimates,"           Growth Estimates      DFS  Industry  Sector(s)  S&P 500
+0              Current Qtr.   -7.80%       NaN        NaN      NaN
+1                 Next Qtr.   -9.60%       NaN        NaN      NaN
+2              Current Year  -14.30%       NaN        NaN      NaN
+3                 Next Year    5.40%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   56.42%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   19.18%       NaN        NaN      NaN"

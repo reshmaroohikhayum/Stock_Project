@@ -1,0 +1,65 @@
+Symbol,index,0
+IBM,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    10.00                 10.00   
+1     Avg. Estimate                     2.00                  2.15   
+2      Low Estimate                     1.89                  1.99   
+3     High Estimate                     2.11                  2.24   
+4      Year Ago EPS                     2.31                  1.81   
+
+   Current Year (2023)  Next Year (2024)  
+0                14.00             13.00  
+1                 9.44             10.00  
+2                 9.18              9.53  
+3                 9.65             10.57  
+4                 9.13              9.44  "
+IBM,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                       9                    9   
+1            Avg. Estimate                  15.56B               14.87B   
+2             Low Estimate                  15.48B               14.59B   
+3            High Estimate                   15.7B               15.84B   
+4           Year Ago Sales                  15.54B               13.51B   
+5  Sales Growth (year/est)                   0.20%               10.10%   
+
+  Current Year (2023) Next Year (2024)  
+0                  12               11  
+1              62.23B           64.46B  
+2               61.8B           63.11B  
+3              62.66B           65.63B  
+4              60.53B           62.23B  
+5               2.80%            3.60%  "
+IBM,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      2.27      1.77        3.6      1.26
+1       EPS Actual      2.31      1.81        3.6      1.36
+2       Difference      0.04      0.04          0       0.1
+3       Surprise %     1.80%     2.30%      0.00%     7.90%"
+IBM,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     2.00                  2.15   
+1        7 Days Ago                     2.07                  2.23   
+2       30 Days Ago                     2.08                  2.23   
+3       60 Days Ago                     2.09                  2.23   
+4       90 Days Ago                     2.10                  2.22   
+
+   Current Year (2023)  Next Year (2024)  
+0                 9.44             10.00  
+1                 9.48             10.09  
+2                 9.50             10.13  
+3                 9.49             10.11  
+4                 9.55             10.13  "
+IBM,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                      NaN                   1.0   
+1    Up Last 30 Days                      1.0                   4.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      1.0                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  2.0               NaN  
+1                  4.0               2.0  
+2                  NaN               NaN  
+3                  2.0               3.0  "
+IBM,Growth Estimates,"           Growth Estimates      IBM  Industry  Sector(s)  S&P 500
+0              Current Qtr.  -13.40%       NaN        NaN      NaN
+1                 Next Qtr.   18.80%       NaN        NaN      NaN
+2              Current Year    3.40%       NaN        NaN      NaN
+3                 Next Year    5.90%       NaN        NaN      NaN
+4  Next 5 Years (per annum)    6.62%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   -9.80%       NaN        NaN      NaN"

@@ -1,0 +1,43 @@
+Symbol,index,0
+HMC,Earnings Estimate,"  Earnings Estimate  Current Qtr.  Next Qtr.  Current Year  Next Year
+0   No. of Analysts           0.0        0.0           0.0        0.0
+1     Avg. Estimate           0.0        0.0           0.0        0.0
+2      Low Estimate           0.0        0.0           0.0        0.0
+3     High Estimate           0.0        0.0           0.0        0.0
+4      Year Ago EPS           NaN        NaN           NaN        NaN"
+HMC,Revenue Estimate,"          Revenue Estimate  Current Qtr.  Next Qtr.  Current Year  Next Year
+0          No. of Analysts           0.0        0.0           0.0        0.0
+1            Avg. Estimate           NaN        NaN           NaN        NaN
+2             Low Estimate           NaN        NaN           NaN        NaN
+3            High Estimate           NaN        NaN           NaN        NaN
+4           Year Ago Sales           NaN        NaN           NaN        NaN
+5  Sales Growth (year/est)           NaN        NaN           NaN        NaN"
+HMC,Earnings History,"  Earnings History  Invalid Date  Invalid Date.1  Invalid Date.2  \
+0         EPS Est.           NaN             NaN             NaN   
+1       EPS Actual           NaN             NaN             NaN   
+2       Difference           NaN             NaN             NaN   
+3       Surprise %           NaN             NaN             NaN   
+
+   Invalid Date.3  
+0             NaN  
+1             NaN  
+2             NaN  
+3             NaN  "
+HMC,EPS Trend,"          EPS Trend  Current Qtr.  Next Qtr.  Current Year  Next Year
+0  Current Estimate             0          0             0          0
+1        7 Days Ago             0          0             0          0
+2       30 Days Ago             0          0             0          0
+3       60 Days Ago             0          0             0          0
+4       90 Days Ago             0          0             0          0"
+HMC,EPS Revisions,"       EPS Revisions  Current Qtr.  Next Qtr.  Current Year  Next Year
+0     Up Last 7 Days           NaN        NaN           NaN        NaN
+1    Up Last 30 Days           NaN        NaN           NaN        NaN
+2   Down Last 7 Days           NaN        NaN           NaN        NaN
+3  Down Last 30 Days           NaN        NaN           NaN        NaN"
+HMC,Growth Estimates,"           Growth Estimates     HMC  Industry  Sector(s)  S&P 500
+0              Current Qtr.     NaN       NaN        NaN      NaN
+1                 Next Qtr.     NaN       NaN        NaN      NaN
+2              Current Year     NaN       NaN        NaN      NaN
+3                 Next Year     NaN       NaN        NaN      NaN
+4  Next 5 Years (per annum)  13.20%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  18.56%       NaN        NaN      NaN"

@@ -1,0 +1,2 @@
+Symbol,index,maxAge,currentPrice,targetHighPrice,targetLowPrice,targetMeanPrice,targetMedianPrice,recommendationMean,recommendationKey,numberOfAnalystOpinions,totalCash,totalCashPerShare,ebitda,totalDebt,totalRevenue,debtToEquity,revenuePerShare,grossProfits,earningsGrowth,revenueGrowth,grossMargins,ebitdaMargins,operatingMargins,profitMargins,financialCurrency
+BLK,BLK,86400,662.68,838.01,493.7,687.59,696.82,2.1,buy,14,7182000128,47.912,6574499840,8488999936,17417000960,21.887,115.75,8787000000,-0.183,-0.097,0.48716998,0.37748,0.35322,0.28128,USD

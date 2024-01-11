@@ -1,0 +1,65 @@
+Symbol,index,0
+GOOG,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    31.00                 31.00   
+1     Avg. Estimate                     1.32                  1.32   
+2      Low Estimate                     1.06                  1.13   
+3     High Estimate                     1.50                  1.54   
+4      Year Ago EPS                     1.21                  1.06   
+
+   Current Year (2023)  Next Year (2024)  
+0                36.00             38.00  
+1                 5.22              6.16  
+2                 4.22              5.03  
+3                 6.02              7.29  
+4                 4.56              5.22  "
+GOOG,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                      29                   29   
+1            Avg. Estimate                  72.27B               73.73B   
+2             Low Estimate                  61.24B                62.7B   
+3            High Estimate                  75.77B               77.42B   
+4           Year Ago Sales                  69.69B               69.09B   
+5  Sales Growth (year/est)                   3.70%                6.70%   
+
+  Current Year (2023) Next Year (2024)  
+0                  32               32  
+1             297.23B          329.88B  
+2              252.8B           282.1B  
+3             308.16B          347.24B  
+4             282.84B          297.23B  
+5               5.10%           11.00%  "
+GOOG,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      1.29      1.25       1.19      1.06
+1       EPS Actual      1.21      1.06       1.05      1.17
+2       Difference     -0.08     -0.19      -0.14      0.11
+3       Surprise %    -6.20%   -15.20%    -11.80%    10.40%"
+GOOG,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     1.32                  1.32   
+1        7 Days Ago                     1.27                  1.29   
+2       30 Days Ago                     1.27                  1.29   
+3       60 Days Ago                     1.27                  1.29   
+4       90 Days Ago                     1.28                  1.31   
+
+   Current Year (2023)  Next Year (2024)  
+0                 5.22              6.16  
+1                 5.00              6.04  
+2                 5.04              6.09  
+3                 5.06              6.09  
+4                 5.24              6.22  "
+GOOG,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                     22.0                  20.0   
+1    Up Last 30 Days                     22.0                  21.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      5.0                   4.0   
+
+   Current Year (2023)  Next Year (2024)  
+0                 25.0              22.0  
+1                 25.0              22.0  
+2                  NaN               NaN  
+3                  4.0               5.0  "
+GOOG,Growth Estimates,"           Growth Estimates    GOOG  Industry  Sector(s)  S&P 500
+0              Current Qtr.   9.10%       NaN        NaN      NaN
+1                 Next Qtr.  24.50%       NaN        NaN      NaN
+2              Current Year  14.50%       NaN        NaN      NaN
+3                 Next Year  18.00%       NaN        NaN      NaN
+4  Next 5 Years (per annum)  17.61%       NaN        NaN      NaN
+5  Past 5 Years (per annum)  23.35%       NaN        NaN      NaN"

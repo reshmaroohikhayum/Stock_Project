@@ -1,0 +1,65 @@
+Symbol,index,0
+NFLX,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    30.00                 30.00   
+1     Avg. Estimate                     2.81                  3.18   
+2      Low Estimate                     2.48                  2.61   
+3     High Estimate                     2.93                  3.72   
+4      Year Ago EPS                     3.20                  3.10   
+
+   Current Year (2023)  Next Year (2024)  
+0                32.00             34.00  
+1                11.08             14.25  
+2                 9.80             11.61  
+3                12.31             16.62  
+4                 9.95             11.08  "
+NFLX,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                      29                   28   
+1            Avg. Estimate                   8.25B                8.61B   
+2             Low Estimate                    8.2B                8.41B   
+3            High Estimate                   8.32B                8.91B   
+4           Year Ago Sales                   7.97B                7.84B   
+5  Sales Growth (year/est)                   3.50%                9.90%   
+
+  Current Year (2023) Next Year (2024)  
+0                  34               33  
+1              33.91B           38.05B  
+2              33.34B           36.79B  
+3              35.73B           39.66B  
+4              31.62B           33.91B  
+5               7.30%           12.20%  "
+NFLX,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      2.94      2.13       0.45      2.86
+1       EPS Actual       3.2       3.1       0.12      2.88
+2       Difference      0.26      0.97      -0.33      0.02
+3       Surprise %     8.80%    45.50%    -73.30%     0.70%"
+NFLX,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                     2.81                  3.18   
+1        7 Days Ago                     2.82                  3.17   
+2       30 Days Ago                     3.07                  3.33   
+3       60 Days Ago                     3.06                  3.30   
+4       90 Days Ago                     3.06                  3.30   
+
+   Current Year (2023)  Next Year (2024)  
+0                11.08             14.25  
+1                11.16             14.27  
+2                11.48             14.38  
+3                11.43             14.48  
+4                11.43             14.43  "
+NFLX,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                      NaN                   NaN   
+1    Up Last 30 Days                      5.0                   8.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  NaN               NaN  
+1                  6.0              13.0  
+2                  NaN               NaN  
+3                  3.0               3.0  "
+NFLX,Growth Estimates,"           Growth Estimates     NFLX  Industry  Sector(s)  S&P 500
+0              Current Qtr.  -12.20%       NaN        NaN      NaN
+1                 Next Qtr.    2.60%       NaN        NaN      NaN
+2              Current Year   11.40%       NaN        NaN      NaN
+3                 Next Year   28.60%       NaN        NaN      NaN
+4  Next 5 Years (per annum)   21.72%       NaN        NaN      NaN
+5  Past 5 Years (per annum)   29.09%       NaN        NaN      NaN"

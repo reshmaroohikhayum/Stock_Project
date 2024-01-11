@@ -1,0 +1,65 @@
+Symbol,index,0
+META,Earnings Estimate,"  Earnings Estimate  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0   No. of Analysts                    37.00                 37.00   
+1     Avg. Estimate                    24.85                 24.77   
+2      Low Estimate                    16.79                 15.35   
+3     High Estimate                    36.98                 36.67   
+4      Year Ago EPS                     2.46                  1.64   
+
+   Current Year (2023)  Next Year (2024)  
+0                51.00             47.00  
+1               102.62            128.18  
+2                68.50             83.95  
+3               155.44            183.26  
+4                 8.59            102.62  "
+META,Revenue Estimate,"          Revenue Estimate Current Qtr. (Jun 2023) Next Qtr. (Sep 2023)  \
+0          No. of Analysts                      39                   39   
+1            Avg. Estimate                  29.53B               29.78B   
+2             Low Estimate                  28.07B               26.84B   
+3            High Estimate                  30.48B               31.11B   
+4           Year Ago Sales                  28.82B               27.71B   
+5  Sales Growth (year/est)                   2.40%                7.50%   
+
+  Current Year (2023) Next Year (2024)  
+0                  51               48  
+1             122.15B           135.9B  
+2              112.1B          124.07B  
+3                127B          146.08B  
+4             116.61B          122.15B  
+5               4.80%           11.30%  "
+META,Earnings History,"  Earnings History 6/29/2022 9/29/2022 12/30/2022 3/30/2023
+0         EPS Est.      2.59      1.89       2.22      2.03
+1       EPS Actual      2.46      1.64       1.76       2.2
+2       Difference     -0.13     -0.25      -0.46      0.17
+3       Surprise %    -5.00%   -13.20%    -20.70%     8.40%"
+META,EPS Trend,"          EPS Trend  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0  Current Estimate                    24.85                 24.77   
+1        7 Days Ago                     2.41                  2.40   
+2       30 Days Ago                     2.35                  2.33   
+3       60 Days Ago                     2.34                  2.17   
+4       90 Days Ago                     1.88                  1.69   
+
+   Current Year (2023)  Next Year (2024)  
+0               102.62            128.18  
+1                 9.97             12.43  
+2                 9.79             12.10  
+3                 9.53             11.50  
+4                 7.93             10.08  "
+META,EPS Revisions,"       EPS Revisions  Current Qtr. (Jun 2023)  Next Qtr. (Sep 2023)  \
+0     Up Last 7 Days                      1.0                   1.0   
+1    Up Last 30 Days                      8.0                  10.0   
+2   Down Last 7 Days                      NaN                   NaN   
+3  Down Last 30 Days                      NaN                   NaN   
+
+   Current Year (2023)  Next Year (2024)  
+0                  1.0               1.0  
+1                 11.0              11.0  
+2                  NaN               NaN  
+3                  1.0               NaN  "
+META,Growth Estimates,"           Growth Estimates       META  Industry  Sector(s)  S&P 500
+0              Current Qtr.    910.20%       NaN        NaN      NaN
+1                 Next Qtr.  1,410.40%       NaN        NaN      NaN
+2              Current Year  1,094.60%       NaN        NaN      NaN
+3                 Next Year     24.90%       NaN        NaN      NaN
+4  Next 5 Years (per annum)    156.06%       NaN        NaN      NaN
+5  Past 5 Years (per annum)      7.22%       NaN        NaN      NaN"
